@@ -1,0 +1,1 @@
+Persona p = new Persona("Juan");\nSystem.out.println(p.nombre); // No compila: nombre es private.\nSe corrige usando p.getNombre().

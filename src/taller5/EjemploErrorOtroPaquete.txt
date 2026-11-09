@@ -1,0 +1,1 @@
+Desde otro paquete no se puede importar ni crear Vehiculo si la clase y el constructor son default. Solo son visibles dentro de taller5.vehiculos.

@@ -1,0 +1,1 @@
+Una clase no relacionada y ubicada en otro paquete no puede hacer System.out.println(v.marca). protected permite acceso a subclases y clases del mismo paquete.
